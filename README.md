@@ -1,5 +1,5 @@
 Hi there 👋
 
-Frontend Web Developer at PT Sigma Cipta Caraka (Telkomsigma)
+UI/UX Designer and Frontend Developer at movus technologies
 
 Teknik Informatika - Universitas Pamulang
