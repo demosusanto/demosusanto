@@ -1,5 +1,5 @@
 Hi there 👋
 
-UI/UX Designer and Frontend Developer at movus technologies
+Full Stack Developer at Expatify
 
 Teknik Informatika - Universitas Pamulang
